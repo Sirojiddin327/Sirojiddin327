@@ -1,28 +1,24 @@
 <h1 align="center">
-   Hi, I'm Sirojiddin <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width=40>
+    Hi, I'm Sirojiddin <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="40">
 </h1>
 
 <h3 align="center">
-  🚀 Python Backend Developer | Django & DRF Enthusiast
+    🚀 Python Backend Developer | Django & DRF Enthusiast
 </h3>
 
 <p align="center">
-  Building clean, scalable and powerful web applications with code.
+    Building clean, scalable and powerful web applications with code.
 </p>
 
 <br>
 
 <div align="center">
 
-  <a href="Sirojiddin327">
-    <img src="@https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
+  <a href="https://github.com/Sirojiddin327" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
   </a>
 
-  <a href="LINKEDIN_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-
-  <a href="@Abdusalimov_Sirojiddin">
+  <a href="https://t.me/Abdusalimov_Sirojiddin" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
 
@@ -55,7 +51,7 @@
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sirojiddin327&show_icons=true&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sirojiddin327&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
