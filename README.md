@@ -60,7 +60,7 @@
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sirojiddin327&theme=tokyonight" alt="GitHub Stats" width=500>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sirojiddin327&theme=tokyonight" alt="GitHub Stats" width=1000>
 </p>
 
 <p align="center">
