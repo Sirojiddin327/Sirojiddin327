@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://hits.securitee.org/v1/projects/Sirojiddin327/counter.svg?style=flat-square&color=81a1c1&label=Profile%20Views" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=Sirojiddin327&color=blue&style=flat-square&label=Profile+Views" alt="Sirojiddin327" />
 </p>
 
 <br>
@@ -56,14 +56,13 @@
   Become a professional backend engineer and build impactful software solutions.
 </p>
 
-
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sirojiddin327&theme=tokyonight" alt="GitHub Stats" style="vertical-align: middle; margin: 10px;" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sirojiddin327&theme=tokyonight" alt="Top Languages" style="vertical-align: middle; margin: 10px;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sirojiddin327&theme=tokyonight" alt="GitHub Stats" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sirojiddin327&theme=tokyonight" alt="Top Languages" />
 </p>
-
 
 <br>
 
