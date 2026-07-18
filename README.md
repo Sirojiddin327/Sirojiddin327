@@ -58,7 +58,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sirojiddin327&layout=compact&theme=tokyonight">
+  <img src="https://profile-counter.glitch.me/Sirojiddin327/count.svg" alt="Visitor Count" />
 </p>
 
 <p align="center">
