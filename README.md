@@ -1,5 +1,5 @@
 <h1 align="center">
-   Hi, I'm Sirojiddin <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width=30>
+   Hi, I'm Sirojiddin <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width=35>
 </h1>
 
 <h3 align="center">
