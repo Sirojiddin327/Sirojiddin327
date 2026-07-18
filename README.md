@@ -60,13 +60,12 @@
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sirojiddin327&theme=tokyonight" alt="GitHub Stats" width=1000>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sirojiddin327&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sirojiddin327&theme=tokyonight" alt="Top Languages" />
 </p>
-
 <br>
 
 <p align="center">
