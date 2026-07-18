@@ -56,14 +56,15 @@
   Become a professional backend engineer and build impactful software solutions.
 </p>
 
+
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sirojiddin327&show_icons=true&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sirojiddin327&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sirojiddin327&layout=compact&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sirojiddin327&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <br>
