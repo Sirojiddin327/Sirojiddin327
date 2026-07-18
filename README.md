@@ -10,10 +10,6 @@
     Building clean, scalable and powerful web applications with code.
 </p>
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Sirojiddin327/count.svg" alt="Visitor Count" />
-</p>
-
 <br>
 
 <div align="center">
@@ -56,18 +52,18 @@
   Become a professional backend engineer and build impactful software solutions.
 </p>
 
+
+
 <h2>📊 GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sirojiddin327&show_icons=true&theme=tokyonight" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sirojiddin327&layout=compact&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sirojiddin327&theme=tokyonight" />
 </p>
 
-<br>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sirojiddin327&theme=tokyonight">
+</p>
 
 <p align="center">
   ⭐ Thanks for visiting my profile! Let's build something amazing 🚀
