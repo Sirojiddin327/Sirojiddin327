@@ -1,5 +1,5 @@
 <h1 align="center">
-   Hi, I'm Sirojiddin <img src="https://media1.tenor.com/m/Yj4grvIBitkAAAAd/jake-is.gif">
+   Hi, I'm Sirojiddin <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif">
 </h1>
 
 <h3 align="center">
