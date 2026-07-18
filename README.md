@@ -10,12 +10,20 @@
     Building clean, scalable and powerful web applications with code.
 </p>
 
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Sirojiddin327/count.svg" alt="Visitor Count" />
+</p>
+
 <br>
 
 <div align="center">
 
   <a href="https://github.com/Sirojiddin327" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+
+  <a href="LINKEDIN_PROFIL_LINKINGIZNI_SHUYERGA_QO'YING" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
   <a href="https://t.me/Abdusalimov_Sirojiddin" target="_blank">
@@ -51,9 +59,15 @@
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sirojiddin327&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sirojiddin327&show_icons=true&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sirojiddin327&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sirojiddin327&theme=tokyonight" />
+</p>
+
+<br>
 
 <p align="center">
   ⭐ Thanks for visiting my profile! Let's build something amazing 🚀
