@@ -10,9 +10,6 @@
     Building clean, scalable and powerful web applications with code.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sirojiddin327&color=blue&style=flat-square&label=Profile+Views" alt="Sirojiddin327" />
-</p>
 
 <br>
 
