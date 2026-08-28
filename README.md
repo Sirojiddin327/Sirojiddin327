@@ -1,272 +1,153 @@
-<div align="center">
+# 👋 Hi, I'm Sirojiddin
 
-<img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="60">
+### 🐍 Python Backend Developer
 
-<h1>Hi, I'm Sirojiddin 👋</h1>
+I build backend systems, REST APIs, Telegram bots and automation tools with Python.
 
-<h3>🚀 Python Backend Developer</h3>
+---
 
-<p>Building scalable backend systems, REST APIs and automation tools with Python</p>
-
-<br>
-
-<img src="https://img.shields.io/badge/Python-Backend%20Developer-blue?style=for-the-badge&logo=python&logoColor=white" height="32">
-<img src="https://img.shields.io/badge/Django-DRF-green?style=for-the-badge&logo=django&logoColor=white" height="32">
-<img src="https://img.shields.io/badge/Celery-Task%20Queue-brightgreen?style=for-the-badge&logo=celery&logoColor=white" height="32">
-<img src="https://img.shields.io/badge/Redis-Cache%20%26%20Broker-red?style=for-the-badge&logo=redis&logoColor=white" height="32">
-<img src="https://img.shields.io/badge/Linux-Developer-black?style=for-the-badge&logo=linux&logoColor=white" height="32">
-
-</div>
-
-<br><br>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-### 👨‍💻 About Me
+## 🧑‍💻 About Me
 
 * 🐍 Python Backend Developer
-* 🔥 Django & Django REST Framework
-* ⚡ REST API Development
+* 🌐 Django & Django REST Framework
+* 🔌 REST API Development
 * 🔐 JWT Authentication
-* 🗄️ Database Design
+* ⚡ Celery & Redis
+* 🗄️ PostgreSQL & SQLite
 * 🤖 Telegram Bot Development
-* 🚀 Celery & Redis
-* 🐧 Linux Developer
+* 🐧 Linux
+* 🐳 Docker
 * 🔧 Git & GitHub
-* 📚 Always learning and building
+* 📮 Postman
 
-</td>
+---
 
-<td width="50%" valign="top">
+## 🛠️ Tech Stack
 
-### 🎯 Current Focus
+<p align="left">
 
-* 🏗️ Building real-world backend systems
-* ⚙️ Advanced Django & DRF
-* 🔌 REST API Architecture
-* 🚀 Celery & asynchronous tasks
-* ⚡ Redis caching and task queues
-* 🗄️ Database optimization
-* 🔐 Authentication & permissions
-* ☁️ Deployment & server management
+<a href="https://www.python.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=python" width="50"/>
+</a>
 
-</td>
-</tr>
-</table>
+<a href="https://www.djangoproject.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=django" width="50"/>
+</a>
 
-<br><br>
+<a href="https://www.django-rest-framework.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=django" width="50"/>
+</a>
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<a href="https://www.postgresql.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=postgres" width="50"/>
+</a>
 
-<div align="center">
+<a href="https://www.sqlite.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=sqlite" width="50"/>
+</a>
 
-<img src="https://skillicons.dev/icons?i=python,django,postgres,sqlite,redis,docker,linux,git,github,vscode&perline=10" height="60">
+<a href="https://redis.io/" target="_blank">
+<img src="https://skillicons.dev/icons?i=redis" width="50"/>
+</a>
 
-<br><br>
+<a href="https://docs.celeryq.dev/" target="_blank">
+<img src="https://skillicons.dev/icons?i=celery" width="50"/>
+</a>
 
-<img src="https://skillicons.dev/icons?i=postman,bash,nginx&perline=10" height="60">
+<a href="https://www.docker.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=docker" width="50"/>
+</a>
 
-</div>
+<a href="https://www.linux.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linux" width="50"/>
+</a>
 
-<br>
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=git" width="50"/>
+</a>
 
-<div align="center">
+<a href="https://github.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" width="50"/>
+</a>
 
-### 🔥 Backend
+<a href="https://code.visualstudio.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=vscode" width="50"/>
+</a>
 
-`Python` • `Django` • `Django REST Framework` • `REST API` • `JWT`
+<a href="https://www.postman.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=postman" width="50"/>
+</a>
 
-### ⚙️ Async & Infrastructure
+<a href="https://www.sqlalchemy.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=python" width="50"/>
+</a>
 
-`Celery` • `Redis` • `Gunicorn` • `Nginx` • `Docker`
+<a href="https://docs.aiogram.dev/" target="_blank">
+<img src="https://skillicons.dev/icons?i=python" width="50"/>
+</a>
 
-### 🗄️ Databases
+</p>
 
-`PostgreSQL` • `SQLite` • `SQLAlchemy`
+---
 
-### 🤖 Bots & Automation
-
-`Aiogram` • `Telegram Bots` • `Webhooks` • `ngrok`
-
-### 🧰 Tools
-
-`Git` • `GitHub` • `Linux` • `VS Code` • `Postman`
-
-</div>
-
-<br><br>
-
-<h2 align="center">🚀 Featured Projects</h2>
-
-<table align="center">
-<tr>
-
-<td align="center" width="33%">
+## 🚀 Projects
 
 ### 🎓 EduFlow
 
-Education Management CRM
+**Education Management CRM**
 
-**Django • DRF • PostgreSQL**
+`Django` • `DRF` • `PostgreSQL`
 
 Student management, groups, teachers, attendance and payments.
 
-</td>
-
-<td align="center" width="33%">
-
 ### 🛠️ Ustalar.uz
 
-Service Marketplace
+**Service Marketplace Backend**
 
-**Django • REST API • PostgreSQL**
+`Django` • `DRF` • `PostgreSQL`
 
-Backend architecture for a service marketplace platform.
-
-</td>
-
-<td align="center" width="33%">
+Backend and REST API for a service marketplace.
 
 ### 💈 Barbershop Bot
 
-Appointment Management Bot
+**Telegram Appointment System**
 
-**Python • Aiogram • SQLAlchemy • SQLite**
+`Python` • `Aiogram` • `SQLAlchemy` • `SQLite`
 
-Telegram bot for barber services, barbers and appointments.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" width="33%">
+Telegram bot for barber services and appointments.
 
 ### 📚 Book API
 
-REST API System
+**Book Management REST API**
 
-**Django • DRF • SQLite**
+`Python` • `Django` • `DRF`
 
-Book management and REST API functionality.
-
-</td>
-
-<td align="center" width="33%">
+REST API for managing books.
 
 ### 🤖 Telegram Bots
 
-Automation Systems
+`Python` • `Aiogram` • `SQLite`
 
-**Python • Aiogram • SQLite**
-
-Different Telegram bots for books, coffee orders and services.
-
-</td>
-
-<td align="center" width="33%">
+Book, coffee ordering and service management bots.
 
 ### 🌱 ECO 24
 
-Eco Patrol Platform
+`Python` • `REST API`
 
-**Python • Backend API**
+Environmental reporting and Eco Patrol platform.
 
-A project focused on reporting and managing environmental problems.
+---
 
-</td>
+## 📫 Connect With Me
 
-</tr>
-</table>
-
-<br><br>
-
-<h2 align="center">⚡ Backend Skills</h2>
-
-<div align="center">
-
-| Skill         | Experience             |
-| ------------- | ---------------------- |
-| 🐍 Python     | Backend Development    |
-| 🌐 Django     | Web Development        |
-| 🔌 DRF        | REST API Development   |
-| 🔐 JWT        | Authentication         |
-| ⚡ Celery      | Background Tasks       |
-| 🔴 Redis      | Cache & Message Broker |
-| 🐘 PostgreSQL | Relational Database    |
-| 🗃️ SQLite    | Lightweight Database   |
-| 🧩 SQLAlchemy | ORM                    |
-| 🤖 Aiogram    | Telegram Bots          |
-| 🐧 Linux      | Development & Server   |
-| 🐳 Docker     | Containerization       |
-| 🔧 Git/GitHub | Version Control        |
-| 📮 Postman    | API Testing            |
-
-</div>
-
-<br><br>
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sirojiddin327&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sirojiddin327&layout=compact&theme=tokyonight&hide_border=true" width="38%">
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=Sirojiddin327&theme=tokyonight&hide_border=true" width="65%">
-
-</div>
-
-<br><br>
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sirojiddin327&theme=tokyonight&no-frame=true&row=1&column=6">
-
-</div>
-
-<br><br>
-
-<h2 align="center">📈 Contribution Graph</h2>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sirojiddin327&theme=tokyo-night&hide_border=true">
-
-</div>
-
-<br><br>
-
-<h2 align="center">📫 Connect With Me</h2>
-
-<div align="center">
-
-<a href="https://github.com/Sirojiddin327">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" height="32">
+<a href="https://github.com/Sirojiddin327" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://t.me/Abdusalimov_Sirojiddin">
-<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" height="32">
+<a href="https://t.me/Abdusalimov_Sirojiddin" target="_blank">
+<img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
-</div>
+---
 
-<br><br>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Sirojiddin327&label=Profile%20Views&color=blue&style=for-the-badge">
-
-</div>
-
-<br>
-
-<h3 align="center">⭐ Turning ideas into real software 🚀</h3>
+### 🚀 Building. Learning. Improving.
