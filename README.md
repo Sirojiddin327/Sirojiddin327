@@ -74,15 +74,6 @@ Men Python ekotizimida backend dasturlash va Telegram botlar yaratishga ixtisosl
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sirojiddin327&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-
-<details>
-<summary>🏆 GitHub Trophies</summary>
-<br>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sirojiddin327&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
-</p>
-</details>
-
 ---
 
 ### 🌐 Bog'lanish
