@@ -80,10 +80,6 @@ Men Python ekotizimida backend dasturlash va Telegram botlar yaratishga ixtisosl
 
 <details>
 <summary>🏆 GitHub Trophies</summary>
-<br>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sirojiddin327&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
-</p>
 </details>
 
 ---
