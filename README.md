@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2CA5E0,100:1a1a2e&height=200&section=header&text=Sirojiddin%20Abdusalimov&fontSize=40&fontColor=ffffff&desc=Backend%20/%20Telegram%20Bot%20Developer&descAlignY=85&descSize=18&animation=fadeIn" alt="Sirojiddin - Backend & Telegram Bot Developer" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2CA5E0,100:1a1a2e&height=200&section=header&text=Sirojiddin%20Abdusalimov&fontSize=40&fontColor=ffffff&desc=Backend%20/%20Telegram%20Bot%20Developer&descAlignY=75&descSize=18&animation=fadeIn" alt="Sirojiddin - Backend & Telegram Bot Developer" width="100%">
 </p>
 
 <h1 align="center">Hi there, I'm Sirojiddin Abdusalimov 👋</h1>
@@ -69,11 +69,6 @@ Men Python ekotizimida backend dasturlash va Telegram botlar yaratishga ixtisosl
 ---
 
 ### 📊 GitHub Statistikam
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sirojiddin327&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sirojiddin327&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top languages" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sirojiddin327&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
