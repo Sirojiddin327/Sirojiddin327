@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="Sirojiddin - Backend & Telegram Bot Developer" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2CA5E0,100:1a1a2e&height=200&section=header&text=Sirojiddin%20Abdusalimov&fontSize=40&fontColor=ffffff&desc=Backend%20%26%20Telegram%20Bot%20Developer&descAlignY=55&descSize=18&animation=fadeIn" alt="Sirojiddin - Backend & Telegram Bot Developer" width="100%">
 </p>
 
 <h1 align="center">Hi there, I'm Sirojiddin Abdusalimov 👋</h1>
