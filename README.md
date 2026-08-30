@@ -58,13 +58,13 @@ Men Python ekotizimida backend dasturlash va Telegram botlar yaratishga ixtisosl
 
 ### 🌐 Bog'lanish
 <p align="center">
-  <a href="https://t.me/USERNAME">
+  <a href="https://t.me/@Sirojiddin_Abdusalimov">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://github.com/USERNAME">
+  <a href="https://github.com/Sirojiddin327">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="mailto:emailingiz@example.com">
+  <a href="mailto:emailingiz@sirojiddinabdusalimov62@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
