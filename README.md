@@ -13,10 +13,18 @@
   <img src="https://img.shields.io/github/followers/Sirojiddin327?label=Followers&style=flat&color=2ca5e0" alt="followers" />
 </p>
 
+<p align="center">
+  <a href="#english-version">🇬🇧 Read in English</a> •
+  <a href="#ozbekcha-versiya">🇺🇿 O'zbekcha</a>
+</p>
+
 ---
 
-### 👨‍💻 Men haqimda
+<a id="ozbekcha-versiya"></a>
+<details open>
+<summary><b>🇺🇿 O'zbekcha versiya (bosib yopish uchun)</b></summary>
 
+### 👨‍💻 Men haqimda
 Men Python ekotizimida backend dasturlash va Telegram botlar yaratishga ixtisoslashgan dasturchiman. Muammolarga mantiqiy va samarali yechim topishni yaxshi ko'raman, kod yozishda tozalik va tushunarlilikka alohida e'tibor beraman.
 
 - 🔭 Hozirda **Django** va **Aiogram 3.x** asosida loyihalar ustida ishlayapman
@@ -66,9 +74,69 @@ Men Python ekotizimida backend dasturlash va Telegram botlar yaratishga ixtisosl
 | **Databases** | Relational DB Design, SQL, PostgreSQL, SQLite, MySQL |
 | **Tools & Dev Environment** | Linux (Ubuntu), Git, GitHub, Postman, ngrok, Ventoy |
 
+</details>
+
 ---
 
-### 📊 GitHub Statistikam
+<a id="english-version"></a>
+<details>
+<summary><b>🇬🇧 English version (click to expand)</b></summary>
+
+### 👨‍💻 About Me
+I'm a backend developer specializing in the Python ecosystem and Telegram bot development. I enjoy finding logical and efficient solutions to problems, and I pay close attention to writing clean, readable code.
+
+- 🔭 Currently working on projects with **Django** and **Aiogram 3.x**
+- 🌱 Currently deepening my knowledge of **Docker**, **CI/CD**, and **FastAPI**
+- 💬 Ask me about **Python, Django, DRF, Aiogram, PostgreSQL**
+- 📫 Reach me at: **sirojiddinabdusalimov62@gmail.com**
+- ⚡ Fun fact: I sketch out a solution on paper before writing any code
+
+🔹 **Backend:** Building web applications with Python and Django
+🔹 **API:** Developing secure and efficient RESTful APIs with Django REST Framework
+🔹 **Telegram Bots:** Building complex bots and webhook-based projects with Aiogram (3.x)
+🔹 **Databases:** Designing database architecture with PostgreSQL, MySQL, and SQLite
+🔹 **Async & Background Tasks:** Managing asynchronous tasks and queues with Celery and Redis
+🔹 **Tools & OS:** Working with Git, GitHub, Postman, ngrok, and the Linux (Ubuntu) environment
+
+---
+
+### 🚀 Technologies & Tools
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" title="Django" alt="Django" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/djangorest/djangorest-original.svg" title="Django REST Framework" alt="DRF" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" alt="Git" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-plain.svg" title="Postman" alt="Postman" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="45" height="45"/>
+</p>
+
+---
+
+### 🛠 Core Areas of Knowledge
+
+| Area | Technologies & Concepts |
+| :--- | :--- |
+| **Python Core** | OOP, Data Structures, Algorithms, AsyncIO |
+| **Web & API** | Django ORM, Class-Based Views, DRF Serializers, JWT, Auth (OTP), Webhooks |
+| **Telegram Bots** | Aiogram 3.x, FSM, Keyboards, Callback Queries, Middleware |
+| **Databases** | Relational DB Design, SQL, PostgreSQL, SQLite, MySQL |
+| **Tools & Dev Environment** | Linux (Ubuntu), Git, GitHub, Postman, ngrok, Ventoy |
+
+</details>
+
+---
+
+### 📊 My GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sirojiddin327&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -76,7 +144,7 @@ Men Python ekotizimida backend dasturlash va Telegram botlar yaratishga ixtisosl
 
 ---
 
-### 🌐 Bog'lanish
+### 🌐 Connect with me
 
 <p align="center">
   <a href="https://t.me/Sirojiddin_Abdusalimov">
